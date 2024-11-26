@@ -4,8 +4,8 @@ Welcome to the **AI Frameworks Comparison** repository! This repository provides
 
 ## 📚 Framework Cheat Sheets
 
-[![PyTorch Cheat Sheet](https://img.shields.io/badge/PyTorch%20Cheat%20Sheet-blue?style=for-the-badge&logo=pytorch)](Comprehensive PyTorch Cheat Sheet (1).md)  
-[![TensorFlow Cheat Sheet](https://img.shields.io/badge/TensorFlow%20Cheat%20Sheet-whitesmoke?style=for-the-badge&logo=tensorflow)](Comprehensive TensorFlow Cheat Sheet (1).md)
+[![PyTorch Cheat Sheet](https://img.shields.io/badge/PyTorch%20Cheat%20Sheet-blue?style=for-the-badge&logo=pytorch)](PyTorch.md)  
+[![TensorFlow Cheat Sheet](https://img.shields.io/badge/TensorFlow%20Cheat%20Sheet-whitesmoke?style=for-the-badge&logo=tensorflow)](TensorFlow.md)
 
 ## ⚡ Framework Comparison
 
@@ -29,11 +29,11 @@ Both **PyTorch** and **TensorFlow** are powerful, but they have their own streng
 
 ## 📥 Visit my LinkedIn Posts
 
-###  PyTorch
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7266963942634110977" height="1645" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+### PyTorch LinkedIn Post
+[Click here to view the PyTorch LinkedIn post](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7266963942634110977)
 
-### TensoFlow
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7266963375186694145" height="1624" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+### TensorFlow LinkedIn Post
+[Click here to view the TensorFlow LinkedIn post](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7266963375186694145)
 
 ## 📞 Let's Connect!
 
