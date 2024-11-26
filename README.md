@@ -1,5 +1,7 @@
 # AI Frameworks Comparison: PyTorch vs TensorFlow
 
+![Abdullah Mirza AI and Machine Learning Developer](https://media.licdn.com/dms/image/v2/D4D16AQEOrUjAALRlBw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728131435697?e=1736985600&v=beta&t=qXMjqAkCNagH3IYRfixQ6znlZAZ4P-qXsV6Bf16Jr28)
+
 Welcome to the **AI Frameworks Comparison** repository! This repository provides a detailed comparison between **PyTorch** and **TensorFlow**, two of the most widely used frameworks in AI and Machine Learning.
 
 ## 📚 Framework Cheat Sheets
