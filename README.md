@@ -30,10 +30,10 @@ Both **PyTorch** and **TensorFlow** are powerful, but they have their own streng
 ## 📥 Visit my LinkedIn Posts
 
 ### PyTorch LinkedIn Post
-[Click here to view the PyTorch LinkedIn post](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7266963942634110977)
+[![PyTorch Post](https://img.shields.io/badge/View%20PyTorch%20Post-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7266963942634110977)
 
 ### TensorFlow LinkedIn Post
-[Click here to view the TensorFlow LinkedIn post](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7266963375186694145)
+[![TensorFlow Post](https://img.shields.io/badge/View%20TensorFlow%20Post-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7266963375186694145)
 
 ## 📞 Let's Connect!
 
