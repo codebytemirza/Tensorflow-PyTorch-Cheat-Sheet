@@ -8,8 +8,8 @@ Welcome to the **AI Frameworks Comparison** repository! This repository provides
 
 [![PyTorch Cheat Sheet](https://img.shields.io/badge/PyTorch%20Cheat%20Sheet-blue?style=for-the-badge&logo=pytorch)](PyTorch.md)  
 [![TensorFlow Cheat Sheet](https://img.shields.io/badge/TensorFlow%20Cheat%20Sheet-whitesmoke?style=for-the-badge&logo=tensorflow)](TensorFlow.md)
+[![Theory Cheat Sheet](https://img.shields.io/badge/Theory%20Cheat%20Sheet-orange?style=for-the-badge&logo=readme)](Deep-learning-theory-cheatSheet.md)
 
-[![Theory Cheat Sheet](https://img.shields.io/badge/TensorFlow%20Cheat%20Sheet-whitesmoke?style=for-the-badge&logo=book)](Deep-learning-theory-cheatSheet.md)
 ## ⚡ Framework Comparison
 
 | Feature                      | PyTorch                               | TensorFlow                        |
